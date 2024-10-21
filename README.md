@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @daguitomaldito -- Dago.
+- 👀 I’m interested in Data Engineering, Blockchain, AI, Trading.
+- 🌱 I’m currently learning everything I can about Azure Data Factory & Power BI. On the side, some image recognition applications for swing trading.
+- 💞️ I’m looking to collaborate on Data Architecture initiatives for Analytics and, possibly, Blockchain.
+- 📫 How to reach me: DM me!
+- 😄 Love me some data memes.
+- ⚡ Fun fact: I plan to visit all 7 continents with my mom. 5 more to go!
